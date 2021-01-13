@@ -1,0 +1,13 @@
+0,Nisko pivo,Niska pivara,0.33,35.0,true,4.7
+1,Zajecarsko pivo,Pivara Zajecar,0.33,65.0,true,4.7
+2,Zajecarsko pivo,Zajecarska pivara,0.5,54.0,true,4.7
+3,Zajecarsko svetlo pivo,Zajecarska pivara,2.0,184.0,true,4.2
+4,Smirnoff vodka,Diageo,0.2,399.0,true,40.0
+5,Red Label,Johnnie Walker,0.2,505.0,true,40.0
+6,Chivas Regal,Chivas,0.7,3945.0,true,45.0
+7,Kardas crveno vino,Aleksic,0.75,799.0,true,13.0
+8,Voda,Vrnjci,1.5,35.0,false,false
+9,Voda,Knjaz Milos,1.25,36.0,false,true
+10,Cockta,Cockta,0.275,50.0,false,true
+11,Joy,neXt,0.5,55.0,false,false
+12,Vocni nektar,neXt,1.5,128.0,false,false
